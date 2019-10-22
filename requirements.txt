@@ -13,7 +13,7 @@ pyasn1==0.1.7
 python-apt==0.9.3.12
 python-dateutil==2.6.1
 pytz==2017.2
-requests==2.4.3
+requests==2.20.0
 scrollphathd==0.0.1
 six==1.8.0
 smbus==1.1
